@@ -16,7 +16,7 @@ This project is a Flask-based web application that predicts the likelihood of fo
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Abdallahkulumba/My-App.git
     cd Project
     ```
 
