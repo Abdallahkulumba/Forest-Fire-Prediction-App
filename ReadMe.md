@@ -44,6 +44,8 @@ This project is a Flask-based web application that predicts the likelihood of fo
 - Enter the environmental factors such as Temperature, RH, Ws, Rain, FFMC, DMC, ISI, Classes, and Region.
 - Click the "Predict" button to get the prediction result.
 
+- <meta name="google-site-verification" content="QnDftAhfxESZAIjaCGX__tZ0sI8RPjJ8yFeEfsplmew" />
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
